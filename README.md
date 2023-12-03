@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiennguyen8
-- 👀 I’m interested in Product Development (Web/App/Blockchain/Fintech/Web3)
-- 🌱 I’m currently learning Programming and Product Manager skills to become Self-taught Developer as well as Product Manager in future.
-- 💞️ I’m looking to collaborate on several project about Blockchain/Fintech/E-commerce/Web3
+- 👀 I’m interested in Product Development (Fintech/Web/App/Blockchain/Web3).
+- 🌱 I’m currently learning Product Manager and Programming skills to become Product Manager as well as Self-taught Developer in the future.
+- 💞️ I’m looking to collaborate on several project about Blockchain/Fintech/E-commerce/Web3.
 - 📫 How to reach me: nguyenducthien180@gmail.com
 
 <!---
