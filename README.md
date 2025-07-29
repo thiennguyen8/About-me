@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thiennguyen8
-- 👀 I’m interested in Product Development (Fintech/Web/App/Blockchain/Web3).
-- 🌱 I’m currently learning Product Manager and Programming skills to become Product Manager as well as Self-taught Developer in the future.
-- 💞️ I’m looking to collaborate on several project about Blockchain/Fintech/E-commerce/Web3.
-- 📫 How to reach me: nguyenducthien180@gmail.com
+- 👋 Hi, I’m Thien Nguyen @thiennguyen8
+- 👀 I’m interested in Product Management for any specific domains like Fintech, Digital Banking, Security, ERP or even Blockchain/Web3.
+- 🌱 I’m currently learning Product Manager and Programming skills to become fullstack Product Manager (with support from AI).
+- 💞️ I’m willing to collaborate on several project. Don't hestitate to contact me if needed. 
+- 📫 How to reach me -> Mail: nguyenducthien180@gmail.com / Telegram: @imtn8 / Twitter: @im_tn8
 
 <!---
 thiennguyen8/thiennguyen8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
